@@ -1,17 +1,11 @@
-# CSI Webcade Bluebird — College Peer Tutoring and Mentorship Platform
+# MENTOR.connect- Mentorship Platform
+In today’s demanding academic landscape, college students face mounting pressures-not only to excel in their studies but also to make informed decisions about their future careers. The challenges of heavy coursework, high expectations, and the uncertainty of post-graduation paths can often feel overwhelming, affecting both academic performance and well-being.
 
-This project is a peer-to-peer tutoring and mentorship platform developed during a hackathon.
-It connects college students with mentors or senior students for academic and career guidance.
-Students can request help with specific subjects, book study sessions, or get career advice.
-Mentors can set their availability, and both parties can rate and review each session.
+MENTOR.connect is an innovative peer-to-peer tutoring and mentorship platform designed to address these challenges by connecting students with experienced mentors and senior peers for personalized academic and career guidance. Through MENTOR.connect, students can easily request help in specific subjects, schedule study sessions, or seek career advice tailored to their needs. Mentors and senior students can set their availability, and both mentors and mentees have the opportunity to rate and review each session, ensuring a high-quality, supportive experience for all participants.
 
 ## Technologies Used
 
 - **Frontend**: React, Tailwind CSS
 - **Backend**: Firebase (Firestore, Authentication, Storage)
-- **Version Control**: Git, GitHub
 
--SS
-![Screenshot 3](https://github.com/Gopal562004/csi-webcade-bluebird/blob/main/visuals/ss3.png)
-![Screenshot 2](https://github.com/Gopal562004/csi-webcade-bluebird/blob/main/visuals/ss2.png)
-![Screenshot 1](https://github.com/Gopal562004/csi-webcade-bluebird/blob/main/visuals/ss1.png)
+
